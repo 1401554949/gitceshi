@@ -1,4 +1,8 @@
 Git is a version control system.
 Git is free software.
 tian jia bushi fen zhi
+<<<<<<< HEAD
 zhe shi master ceshi
+=======
+zhe shi feature1 ceshi
+>>>>>>> feature1
